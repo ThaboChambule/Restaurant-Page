@@ -34,4 +34,4 @@ export function LoadInitialContent(){
     content.appendChild(description);
     content.appendChild(hours);
     content.appendChild(location)
-}
+} 
